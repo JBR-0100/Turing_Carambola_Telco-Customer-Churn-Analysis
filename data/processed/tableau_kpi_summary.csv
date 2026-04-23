@@ -1,0 +1,10 @@
+KPI,Value,Category
+Overall Churn Rate,26.5%,Health
+Monthly Revenue at Risk,"$139,131",Financial
+Annualized Revenue Loss,"$1,669,570",Financial
+ARPU (Overall),$64.76,Revenue
+ARPU (Churned),$74.44,Revenue
+ARPU (Retained),$61.27,Revenue
+Contract Stability Index,45.0%,Retention
+Total Customers,"7,043",Scale
+Churned Customers,"1,869",Scale

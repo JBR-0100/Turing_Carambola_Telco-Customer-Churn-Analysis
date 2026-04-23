@@ -1,0 +1,5 @@
+Cluster,Customer_Count,Avg_Tenure,Avg_Monthly_Charges,Avg_Total_Charges,Avg_NumServices,Pct_Month_to_Month,Churn_Rate,Total_Monthly_Revenue,Revenue_At_Risk,Risk_Level
+0,1899,56.59,86.4,4954.04,4.15,0.0,10.0,164077.8,17084.3,Medium-Low
+1,2094,9.2,48.82,429.82,0.58,100.0,42.0,102227.45,50337.95,Medium-High
+2,1268,40.01,27.31,1064.56,0.37,0.0,3.0,34631.5,1218.85,Low
+3,1782,28.35,87.08,2468.31,2.7,100.0,44.0,155179.85,70489.75,High
